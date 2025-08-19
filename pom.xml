@@ -44,12 +44,12 @@
         <artifactId>axon-spring-boot-starter</artifactId>
 		<version>4.9.3</version>
 
-	<exclusions>
+<!-- 	<exclusions>
 		<exclusion>
 			<groupId>org.axonframework</groupId>
 			<artifactId>axon-server-connector</artifactId>
 		</exclusion>
-	</exclusions> 
+	</exclusions>  -->
     </dependency>
 
 

@@ -1,0 +1,5 @@
+server:
+  port: 8086
+axon:
+  axonserver:
+    client-id: etudiant-service-dev
